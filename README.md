@@ -1,6 +1,8 @@
 # Bitcoin coverter
 App that converts bitcoin in brazilian real
 
+[DEMO](https://gustavokuhl-cryptoconverter.netlify.app/)
+
 ![](./siteScreenshot.png)
 
 ## Index
