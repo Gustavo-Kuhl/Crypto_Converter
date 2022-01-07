@@ -28,5 +28,5 @@ In this project I learned about API connection, react hooks and JSX.
 ## Authorship
 Developed by Gustavo Kuhl.
 
-- [Gmail]: gustavo.dev92@gmail.com
+- Gmail: gustavo.dev92@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/gustavo-kuhl/)
